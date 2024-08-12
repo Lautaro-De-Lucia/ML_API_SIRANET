@@ -1,0 +1,13 @@
+GET:
+  USER:
+    data: /users/$USER_ID
+    addresses: /users/$USER_ID/addresses	
+    payment_methods: /users/$USER_ID/accepted_payment_methods	
+    brands: /users/$USER_ID/brands	
+    promotion_packs: /users/$USER_ID/classifieds_promotion_packs	
+  APPS:
+    data: /applications/$APPLICATION_ID	
+  NOTIFICATIONS:
+    history: /missed_feeds?app_id=$APP_ID	
+
+

@@ -1,0 +1,375 @@
+[2024-08-12T13:13:57.576Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:13:57.592Z] Retrieved AUTH config
+[2024-08-12T13:13:57.965Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:13:57.966Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:16:06.856Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:16:06.867Z] Retrieved AUTH config
+[2024-08-12T13:16:06.868Z] Refreshing token...
+[2024-08-12T13:16:06.872Z] Token refresh data: grant_type=refresh_token&client_id=undefined&client_secret=undefined&refresh_token=undefined
+[2024-08-12T13:16:07.216Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:16:07.218Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:18:47.502Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:18:47.512Z] Retrieved AUTH config
+[2024-08-12T13:18:47.513Z] CONFIG DATA:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[2024-08-12T13:18:47.514Z] Refreshing token...
+[2024-08-12T13:18:47.517Z] Token refresh data: grant_type=refresh_token&client_id=undefined&client_secret=undefined&refresh_token=undefined
+[2024-08-12T13:18:47.908Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:18:47.910Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:19:33.875Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:19:33.886Z] Retrieved AUTH config
+[2024-08-12T13:19:33.889Z] Config data: [{"APP_ID":3430632007865823},{"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8"},{"CODE":"TG-66ba01cc687fc00001040715-209290511"},{"REDIRECT_URI":"https://www.siranet.com.ar/"},{"ACCESS_TOKEN":"APP_USR-3430632007865823-081208-ff77bb14c718c4d76ee09632487d435b-209290511"},{"REFRESH_TOKEN":"TG-66ba037ba1640c00017f4379-209290511"},{"USER_ID":209290511}]
+[2024-08-12T13:19:33.890Z] Refreshing token...
+[2024-08-12T13:19:33.892Z] Token refresh data: grant_type=refresh_token&client_id=undefined&client_secret=undefined&refresh_token=undefined
+[2024-08-12T13:19:34.207Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:19:34.208Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:20:24.404Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:20:24.415Z] Retrieved AUTH config
+[2024-08-12T13:20:24.418Z] Config data: [{"APP_ID":3430632007865823},{"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8"},{"CODE":"TG-66ba01cc687fc00001040715-209290511"},{"REDIRECT_URI":"https://www.siranet.com.ar/"},{"ACCESS_TOKEN":"APP_USR-3430632007865823-081208-ff77bb14c718c4d76ee09632487d435b-209290511"},{"REFRESH_TOKEN":"TG-66ba037ba1640c00017f4379-209290511"},{"USER_ID":209290511}]
+[2024-08-12T13:20:24.419Z] Refreshing token...
+[2024-08-12T13:20:24.421Z] Token refresh data: undefined, undefined, undefined, undefined
+[2024-08-12T13:20:24.733Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:20:24.735Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:21:25.856Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:21:25.866Z] Retrieved AUTH config
+[2024-08-12T13:21:25.867Z] Config data: [{"APP_ID":3430632007865823},{"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8"},{"CODE":"TG-66ba01cc687fc00001040715-209290511"},{"REDIRECT_URI":"https://www.siranet.com.ar/"},{"ACCESS_TOKEN":"APP_USR-3430632007865823-081208-ff77bb14c718c4d76ee09632487d435b-209290511"},{"REFRESH_TOKEN":"TG-66ba037ba1640c00017f4379-209290511"},{"USER_ID":209290511}]
+[2024-08-12T13:21:25.869Z] Refreshing token...
+[2024-08-12T13:21:25.871Z] Token refresh data: undefined, undefined, undefined, undefined
+[2024-08-12T13:21:26.200Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:21:26.201Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:22:02.738Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:22:02.749Z] Retrieved AUTH config
+[2024-08-12T13:22:02.750Z] Config data: [{"APP_ID":3430632007865823},{"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8"},{"CODE":"TG-66ba01cc687fc00001040715-209290511"},{"REDIRECT_URI":"https://www.siranet.com.ar/"},{"ACCESS_TOKEN":"APP_USR-3430632007865823-081208-ff77bb14c718c4d76ee09632487d435b-209290511"},{"REFRESH_TOKEN":"TG-66ba037ba1640c00017f4379-209290511"},{"USER_ID":209290511}]
+[2024-08-12T13:22:02.751Z] Refreshing token...
+[2024-08-12T13:22:02.755Z] Token refresh data: undefined, undefined, undefined, undefined
+[2024-08-12T13:22:03.085Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:22:03.086Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:23:31.627Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:23:31.642Z] Retrieved AUTH config
+[2024-08-12T13:23:31.644Z] Config data: [{"APP_ID":3430632007865823},{"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8"},{"CODE":"TG-66ba01cc687fc00001040715-209290511"},{"REDIRECT_URI":"https://www.siranet.com.ar/"},{"ACCESS_TOKEN":"APP_USR-3430632007865823-081208-ff77bb14c718c4d76ee09632487d435b-209290511"},{"REFRESH_TOKEN":"TG-66ba037ba1640c00017f4379-209290511"},{"USER_ID":209290511}]
+[2024-08-12T13:23:31.647Z] Refreshing token...
+[2024-08-12T13:23:31.649Z] Token refresh data: undefined, undefined, undefined, undefined
+[2024-08-12T13:23:32.137Z] Failed to refresh token: Request failed with status code 400
+[2024-08-12T13:23:32.139Z] Application failed to initialize: Request failed with status code 400
+[2024-08-12T13:25:05.730Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:25:05.747Z] Retrieved AUTH config
+[2024-08-12T13:25:05.750Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081208-ff77bb14c718c4d76ee09632487d435b-209290511","REFRESH_TOKEN":"TG-66ba037ba1640c00017f4379-209290511","USER_ID":209290511}
+[2024-08-12T13:25:05.753Z] Refreshing token...
+[2024-08-12T13:25:05.755Z] Token refresh data: undefined, undefined, undefined, undefined
+[2024-08-12T13:25:06.198Z] Token refreshed successfully
+[2024-08-12T13:25:06.203Z] Saved config to ./config/config.yaml
+[2024-08-12T13:25:06.204Z] Updated tokens in config
+[2024-08-12T13:25:06.217Z] Server running at http://localhost:3000/
+[2024-08-12T13:25:57.833Z] Loaded config from ./config/config.yaml
+[2024-08-12T13:25:57.842Z] Retrieved AUTH config
+[2024-08-12T13:25:57.843Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081209-be23031d612bab9a96f60891c0ef039c-209290511","REFRESH_TOKEN":"TG-66ba0d32a1640c00017ff7c3-209290511","USER_ID":209290511}
+[2024-08-12T13:25:58.385Z] Token refreshed successfully
+[2024-08-12T13:25:58.391Z] Saved config to ./config/config.yaml
+[2024-08-12T13:25:58.392Z] Updated tokens in config
+[2024-08-12T13:25:58.399Z] Server running at http://localhost:3000/
+[2024-08-12T18:07:58.825Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:07:58.837Z] Retrieved AUTH config
+[2024-08-12T18:07:58.840Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081209-c29c93d33a3536de47f74afdaceec24b-209290511","REFRESH_TOKEN":"TG-66ba0d66687fc0000104db7f-209290511","USER_ID":209290511}
+[2024-08-12T18:07:59.317Z] Token refreshed successfully
+[2024-08-12T18:07:59.321Z] Saved config to ./config/config.yaml
+[2024-08-12T18:07:59.321Z] Updated tokens in config
+[2024-08-12T18:07:59.333Z] Server running at http://localhost:3000/
+[2024-08-12T18:41:54.381Z] Server running at http://localhost:3000/
+[2024-08-12T18:43:17.440Z] Server running at http://localhost:3000/
+[2024-08-12T18:43:44.897Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:43:44.930Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:44:34.854Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:44:34.859Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:46:14.642Z] Server running at http://localhost:3000/
+[2024-08-12T18:46:18.583Z] Initializing MercadoLibreAPI
+[2024-08-12T18:46:18.587Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:46:18.598Z] ConfigManager initialized
+[2024-08-12T18:46:18.599Z] AuthManager initialized
+[2024-08-12T18:46:18.608Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:47:42.627Z] Initializing MercadoLibreAPI
+[2024-08-12T18:47:42.629Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:47:42.634Z] ConfigManager initialized
+[2024-08-12T18:47:42.637Z] AuthManager initialized
+[2024-08-12T18:47:42.642Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:48:04.549Z] Server running at http://localhost:3000/
+[2024-08-12T18:48:06.855Z] Initializing MercadoLibreAPI
+[2024-08-12T18:48:06.859Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:48:06.866Z] ConfigManager initialized
+[2024-08-12T18:48:06.867Z] AuthManager initialized
+[2024-08-12T18:48:06.877Z] GET / - Error: logger is not defined
+[2024-08-12T18:48:55.133Z] Server running at http://localhost:3000/
+[2024-08-12T18:49:04.290Z] Initializing MercadoLibreAPI
+[2024-08-12T18:49:04.293Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:49:04.309Z] ConfigManager initialized
+[2024-08-12T18:49:04.310Z] AuthManager initialized
+[2024-08-12T18:49:04.323Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:51:39.451Z] Server running at http://localhost:3000/
+[2024-08-12T18:51:41.110Z] Initializing MercadoLibreAPI
+[2024-08-12T18:51:41.114Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:51:41.125Z] ConfigManager initialized
+[2024-08-12T18:51:41.126Z] AuthManager initialized
+[2024-08-12T18:51:41.127Z] Loading endpoints from ./endpoints.yaml
+[2024-08-12T18:51:41.129Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T18:51:41.137Z] Endpoints loaded
+[2024-08-12T18:51:41.140Z] Retrieved AUTH config
+[2024-08-12T18:51:41.143Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-093106f4523a8c11ba4670797fe8bfda-209290511","REFRESH_TOKEN":"TG-66ba4f7f2a1dd20001b44eaa-209290511","USER_ID":209290511}
+[2024-08-12T18:51:42.610Z] Token refreshed successfully
+[2024-08-12T18:51:42.619Z] Saved config to ./config/config.yaml
+[2024-08-12T18:51:42.623Z] Updated tokens in config
+[2024-08-12T18:51:42.625Z] Retrieved AUTH config
+[2024-08-12T18:51:42.626Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-ba45f730a405da5d4067542414050311-209290511","REFRESH_TOKEN":"TG-66ba59beac38a50001d581c6-209290511","USER_ID":209290511}
+[2024-08-12T18:51:42.628Z] Making GET request to USER/data
+[2024-08-12T18:51:42.632Z] Retrieved AUTH config
+[2024-08-12T18:51:42.634Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-ba45f730a405da5d4067542414050311-209290511","REFRESH_TOKEN":"TG-66ba59beac38a50001d581c6-209290511","USER_ID":209290511}
+[2024-08-12T18:51:42.637Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T18:51:42.831Z] Received response with status 200
+[2024-08-12T18:51:42.841Z] GET / - User data retrieved and sent in response
+[2024-08-12T18:56:41.083Z] Server running at http://localhost:3000/
+[2024-08-12T18:56:45.434Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:56:45.457Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:57:22.216Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:57:22.222Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:57:26.359Z] Server running at http://localhost:3000/
+[2024-08-12T18:57:27.869Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:57:27.885Z] GET / - Error: Cannot read properties of undefined (reading 'log')
+[2024-08-12T18:57:37.599Z] Server running at http://localhost:3000/
+[2024-08-12T18:57:40.200Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:57:40.206Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T18:57:40.208Z] Retrieved AUTH config
+[2024-08-12T18:57:40.211Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-ba45f730a405da5d4067542414050311-209290511","REFRESH_TOKEN":"TG-66ba59beac38a50001d581c6-209290511","USER_ID":209290511}
+[2024-08-12T18:57:40.214Z] Retrieved AUTH config
+[2024-08-12T18:57:40.215Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-ba45f730a405da5d4067542414050311-209290511","REFRESH_TOKEN":"TG-66ba59beac38a50001d581c6-209290511","USER_ID":209290511}
+[2024-08-12T18:57:40.217Z] Retrieved AUTH config
+[2024-08-12T18:57:40.218Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-ba45f730a405da5d4067542414050311-209290511","REFRESH_TOKEN":"TG-66ba59beac38a50001d581c6-209290511","USER_ID":209290511}
+[2024-08-12T18:57:40.751Z] Token refreshed successfully
+[2024-08-12T18:57:40.755Z] Saved config to ./config/config.yaml
+[2024-08-12T18:57:40.756Z] Updated tokens in config
+[2024-08-12T18:57:40.758Z] Retrieved AUTH config
+[2024-08-12T18:57:40.759Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-2904ffc6256e648a729d5f8105e1aa63-209290511","REFRESH_TOKEN":"TG-66ba5b24c7de0f000195561c-209290511","USER_ID":209290511}
+[2024-08-12T18:57:40.760Z] Retrieved AUTH config
+[2024-08-12T18:57:40.762Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-2904ffc6256e648a729d5f8105e1aa63-209290511","REFRESH_TOKEN":"TG-66ba5b24c7de0f000195561c-209290511","USER_ID":209290511}
+[2024-08-12T18:57:40.763Z] Retrieved AUTH config
+[2024-08-12T18:57:40.764Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-2904ffc6256e648a729d5f8105e1aa63-209290511","REFRESH_TOKEN":"TG-66ba5b24c7de0f000195561c-209290511","USER_ID":209290511}
+[2024-08-12T18:57:41.071Z] Token refreshed successfully
+[2024-08-12T18:57:41.073Z] Saved config to ./config/config.yaml
+[2024-08-12T18:57:41.075Z] Updated tokens in config
+[2024-08-12T18:57:41.076Z] Retrieved AUTH config
+[2024-08-12T18:57:41.078Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-d3f23bb913eb5263ca12046292b1bb83-209290511","REFRESH_TOKEN":"TG-66ba5b25c7de0f0001955621-209290511","USER_ID":209290511}
+[2024-08-12T18:57:41.080Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T18:57:41.272Z] Received response with status 200
+[2024-08-12T18:58:33.458Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:58:33.461Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T18:58:33.464Z] Retrieved AUTH config
+[2024-08-12T18:58:33.465Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-d3f23bb913eb5263ca12046292b1bb83-209290511","REFRESH_TOKEN":"TG-66ba5b25c7de0f0001955621-209290511","USER_ID":209290511}
+[2024-08-12T18:58:33.469Z] Retrieved AUTH config
+[2024-08-12T18:58:33.475Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-d3f23bb913eb5263ca12046292b1bb83-209290511","REFRESH_TOKEN":"TG-66ba5b25c7de0f0001955621-209290511","USER_ID":209290511}
+[2024-08-12T18:58:33.477Z] Retrieved AUTH config
+[2024-08-12T18:58:33.481Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-d3f23bb913eb5263ca12046292b1bb83-209290511","REFRESH_TOKEN":"TG-66ba5b25c7de0f0001955621-209290511","USER_ID":209290511}
+[2024-08-12T18:58:33.863Z] Token refreshed successfully
+[2024-08-12T18:58:33.868Z] Saved config to ./config/config.yaml
+[2024-08-12T18:58:33.870Z] Updated tokens in config
+[2024-08-12T18:58:33.872Z] Retrieved AUTH config
+[2024-08-12T18:58:33.874Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-84ef528ddc6ba485a2459b9c19088940-209290511","REFRESH_TOKEN":"TG-66ba5b5a7b95c1000157be27-209290511","USER_ID":209290511}
+[2024-08-12T18:58:33.877Z] Retrieved AUTH config
+[2024-08-12T18:58:33.880Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-84ef528ddc6ba485a2459b9c19088940-209290511","REFRESH_TOKEN":"TG-66ba5b5a7b95c1000157be27-209290511","USER_ID":209290511}
+[2024-08-12T18:58:33.881Z] Retrieved AUTH config
+[2024-08-12T18:58:33.882Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-84ef528ddc6ba485a2459b9c19088940-209290511","REFRESH_TOKEN":"TG-66ba5b5a7b95c1000157be27-209290511","USER_ID":209290511}
+[2024-08-12T18:58:34.197Z] Token refreshed successfully
+[2024-08-12T18:58:34.199Z] Saved config to ./config/config.yaml
+[2024-08-12T18:58:34.200Z] Updated tokens in config
+[2024-08-12T18:58:34.201Z] Retrieved AUTH config
+[2024-08-12T18:58:34.203Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-372f4c75c77acd3fd48b188aa0ba530b-209290511","REFRESH_TOKEN":"TG-66ba5b5aac38a50001d599a8-209290511","USER_ID":209290511}
+[2024-08-12T18:58:34.205Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T18:58:34.397Z] Received response with status 200
+[2024-08-12T18:58:51.794Z] Loaded config from ./config/config.yaml
+[2024-08-12T18:58:51.798Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T18:58:51.800Z] Retrieved AUTH config
+[2024-08-12T18:58:51.802Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-372f4c75c77acd3fd48b188aa0ba530b-209290511","REFRESH_TOKEN":"TG-66ba5b5aac38a50001d599a8-209290511","USER_ID":209290511}
+[2024-08-12T18:58:51.807Z] Retrieved AUTH config
+[2024-08-12T18:58:51.810Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-372f4c75c77acd3fd48b188aa0ba530b-209290511","REFRESH_TOKEN":"TG-66ba5b5aac38a50001d599a8-209290511","USER_ID":209290511}
+[2024-08-12T18:58:51.814Z] Retrieved AUTH config
+[2024-08-12T18:58:51.815Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-372f4c75c77acd3fd48b188aa0ba530b-209290511","REFRESH_TOKEN":"TG-66ba5b5aac38a50001d599a8-209290511","USER_ID":209290511}
+[2024-08-12T18:58:52.193Z] Token refreshed successfully
+[2024-08-12T18:58:52.195Z] Saved config to ./config/config.yaml
+[2024-08-12T18:58:52.196Z] Updated tokens in config
+[2024-08-12T18:58:52.197Z] Retrieved AUTH config
+[2024-08-12T18:58:52.198Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-436e2e35b520d520f4a5c4319c503f74-209290511","REFRESH_TOKEN":"TG-66ba5b6c3b550900017fb268-209290511","USER_ID":209290511}
+[2024-08-12T18:58:52.199Z] Retrieved AUTH config
+[2024-08-12T18:58:52.199Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-436e2e35b520d520f4a5c4319c503f74-209290511","REFRESH_TOKEN":"TG-66ba5b6c3b550900017fb268-209290511","USER_ID":209290511}
+[2024-08-12T18:58:52.200Z] Retrieved AUTH config
+[2024-08-12T18:58:52.201Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-436e2e35b520d520f4a5c4319c503f74-209290511","REFRESH_TOKEN":"TG-66ba5b6c3b550900017fb268-209290511","USER_ID":209290511}
+[2024-08-12T18:58:52.502Z] Token refreshed successfully
+[2024-08-12T18:58:52.505Z] Saved config to ./config/config.yaml
+[2024-08-12T18:58:52.508Z] Updated tokens in config
+[2024-08-12T18:58:52.509Z] Retrieved AUTH config
+[2024-08-12T18:58:52.510Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-4093dc4f30ccb3f784e8684a0458159b-209290511","REFRESH_TOKEN":"TG-66ba5b6c6ead2000012ed068-209290511","USER_ID":209290511}
+[2024-08-12T18:58:52.511Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T18:58:52.713Z] Received response with status 200
+[2024-08-12T19:00:27.385Z] Server running at http://localhost:3000/
+[2024-08-12T19:00:39.390Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:00:39.397Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:00:39.399Z] Retrieved AUTH config
+[2024-08-12T19:00:39.400Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-4093dc4f30ccb3f784e8684a0458159b-209290511","REFRESH_TOKEN":"TG-66ba5b6c6ead2000012ed068-209290511","USER_ID":209290511}
+[2024-08-12T19:00:39.401Z] Retrieved AUTH config
+[2024-08-12T19:00:39.404Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-4093dc4f30ccb3f784e8684a0458159b-209290511","REFRESH_TOKEN":"TG-66ba5b6c6ead2000012ed068-209290511","USER_ID":209290511}
+[2024-08-12T19:00:39.405Z] Token expired, refreshing...
+[2024-08-12T19:00:39.407Z] Retrieved AUTH config
+[2024-08-12T19:00:39.409Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081214-4093dc4f30ccb3f784e8684a0458159b-209290511","REFRESH_TOKEN":"TG-66ba5b6c6ead2000012ed068-209290511","USER_ID":209290511}
+[2024-08-12T19:00:39.874Z] Token refreshed successfully
+[2024-08-12T19:00:39.879Z] Saved config to ./config/config.yaml
+[2024-08-12T19:00:39.880Z] Updated tokens in config
+[2024-08-12T19:00:39.881Z] Retrieved AUTH config
+[2024-08-12T19:00:39.882Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-799d9343ddb8fd3e30bb5e019c9d55d0-209290511","REFRESH_TOKEN":"TG-66ba5bd82a1dd20001b50e58-209290511","USER_ID":209290511}
+[2024-08-12T19:00:39.883Z] Retrieved AUTH config
+[2024-08-12T19:00:39.883Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-799d9343ddb8fd3e30bb5e019c9d55d0-209290511","REFRESH_TOKEN":"TG-66ba5bd82a1dd20001b50e58-209290511","USER_ID":209290511}
+[2024-08-12T19:00:39.886Z] Token expired, refreshing...
+[2024-08-12T19:00:39.888Z] Retrieved AUTH config
+[2024-08-12T19:00:39.889Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-799d9343ddb8fd3e30bb5e019c9d55d0-209290511","REFRESH_TOKEN":"TG-66ba5bd82a1dd20001b50e58-209290511","USER_ID":209290511}
+[2024-08-12T19:00:40.195Z] Token refreshed successfully
+[2024-08-12T19:00:40.198Z] Saved config to ./config/config.yaml
+[2024-08-12T19:00:40.200Z] Updated tokens in config
+[2024-08-12T19:00:40.204Z] Retrieved AUTH config
+[2024-08-12T19:00:40.205Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-38d86a3dacb213a86757843a2cccc122-209290511","REFRESH_TOKEN":"TG-66ba5bd8ac38a50001d5a36a-209290511","USER_ID":209290511}
+[2024-08-12T19:00:40.208Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:00:40.403Z] Received response with status 200
+[2024-08-12T19:05:13.113Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:05:13.116Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:05:13.117Z] Retrieved AUTH config
+[2024-08-12T19:05:13.118Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-38d86a3dacb213a86757843a2cccc122-209290511","REFRESH_TOKEN":"TG-66ba5bd8ac38a50001d5a36a-209290511","USER_ID":209290511}
+[2024-08-12T19:05:13.120Z] Retrieved AUTH config
+[2024-08-12T19:05:13.127Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-38d86a3dacb213a86757843a2cccc122-209290511","REFRESH_TOKEN":"TG-66ba5bd8ac38a50001d5a36a-209290511","USER_ID":209290511}
+[2024-08-12T19:05:13.128Z] Token expired, refreshing...
+[2024-08-12T19:05:13.131Z] Retrieved AUTH config
+[2024-08-12T19:05:13.132Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-38d86a3dacb213a86757843a2cccc122-209290511","REFRESH_TOKEN":"TG-66ba5bd8ac38a50001d5a36a-209290511","USER_ID":209290511}
+[2024-08-12T19:05:13.498Z] Token refreshed successfully
+[2024-08-12T19:05:13.500Z] Saved config to ./config/config.yaml
+[2024-08-12T19:05:13.504Z] Updated tokens in config
+[2024-08-12T19:05:13.506Z] Retrieved AUTH config
+[2024-08-12T19:05:13.507Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-e73660878b1a1a07d53886a55389e742-209290511","REFRESH_TOKEN":"TG-66ba5ce93b550900017fcc53-209290511","USER_ID":209290511}
+[2024-08-12T19:05:13.511Z] Retrieved AUTH config
+[2024-08-12T19:05:13.512Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-e73660878b1a1a07d53886a55389e742-209290511","REFRESH_TOKEN":"TG-66ba5ce93b550900017fcc53-209290511","USER_ID":209290511}
+[2024-08-12T19:05:13.513Z] Token expired, refreshing...
+[2024-08-12T19:05:13.514Z] Retrieved AUTH config
+[2024-08-12T19:05:13.515Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-e73660878b1a1a07d53886a55389e742-209290511","REFRESH_TOKEN":"TG-66ba5ce93b550900017fcc53-209290511","USER_ID":209290511}
+[2024-08-12T19:05:13.811Z] Token refreshed successfully
+[2024-08-12T19:05:13.814Z] Saved config to ./config/config.yaml
+[2024-08-12T19:05:13.818Z] Updated tokens in config
+[2024-08-12T19:05:13.819Z] Retrieved AUTH config
+[2024-08-12T19:05:13.822Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-d692d77bd01df9b6e25c84cb0344e4f9-209290511","REFRESH_TOKEN":"TG-66ba5ceafa0c890001312bd8-209290511","USER_ID":209290511}
+[2024-08-12T19:05:13.825Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:05:14.031Z] Received response with status 200
+[2024-08-12T19:05:49.279Z] Server running at http://localhost:3000/
+[2024-08-12T19:05:52.174Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:05:52.178Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:05:52.196Z] ConfigManager created
+[2024-08-12T19:05:52.199Z] AuthManager created
+[2024-08-12T19:05:52.203Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:05:52.205Z] Endpoints loaded
+[2024-08-12T19:05:52.210Z] Retrieved AUTH config
+[2024-08-12T19:05:52.212Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-d692d77bd01df9b6e25c84cb0344e4f9-209290511","REFRESH_TOKEN":"TG-66ba5ceafa0c890001312bd8-209290511","USER_ID":209290511}
+[2024-08-12T19:05:52.214Z] Retrieved AUTH config
+[2024-08-12T19:05:52.215Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-d692d77bd01df9b6e25c84cb0344e4f9-209290511","REFRESH_TOKEN":"TG-66ba5ceafa0c890001312bd8-209290511","USER_ID":209290511}
+[2024-08-12T19:05:52.216Z] Token expired, refreshing...
+[2024-08-12T19:05:52.218Z] Retrieved AUTH config
+[2024-08-12T19:05:52.221Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-d692d77bd01df9b6e25c84cb0344e4f9-209290511","REFRESH_TOKEN":"TG-66ba5ceafa0c890001312bd8-209290511","USER_ID":209290511}
+[2024-08-12T19:05:52.818Z] Token refreshed successfully
+[2024-08-12T19:05:52.829Z] Saved config to ./config/config.yaml
+[2024-08-12T19:05:52.830Z] Updated tokens in config
+[2024-08-12T19:05:52.831Z] Retrieved AUTH config
+[2024-08-12T19:05:52.833Z] Config data: {"APP_ID":3430632007865823,"CLIENT_SECRET":"e45p9XtXCM6FrrXezZDspur24y2phrq8","CODE":"TG-66ba01cc687fc00001040715-209290511","REDIRECT_URI":"https://www.siranet.com.ar/","ACCESS_TOKEN":"APP_USR-3430632007865823-081215-41fd856ea21672de0b0fcd39013de625-209290511","REFRESH_TOKEN":"TG-66ba5d103b550900017fcedc-209290511","USER_ID":209290511}
+[2024-08-12T19:05:52.834Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:05:53.038Z] Received response with status 200
+[2024-08-12T19:07:48.356Z] Server running at http://localhost:3000/
+[2024-08-12T19:07:52.229Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:07:52.231Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:07:52.248Z] ConfigManager created
+[2024-08-12T19:07:52.249Z] AuthManager created
+[2024-08-12T19:07:52.250Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:07:52.252Z] Endpoints loaded
+[2024-08-12T19:07:52.254Z] Retrieved AUTH config
+[2024-08-12T19:07:52.264Z] Retrieved AUTH config
+[2024-08-12T19:07:52.266Z] Token expired, refreshing...
+[2024-08-12T19:07:52.267Z] Retrieved AUTH config
+[2024-08-12T19:07:52.929Z] Token refreshed successfully
+[2024-08-12T19:07:52.935Z] Saved config to ./config/config.yaml
+[2024-08-12T19:07:52.936Z] Updated tokens in config
+[2024-08-12T19:07:52.939Z] Retrieved AUTH config
+[2024-08-12T19:07:52.943Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:07:53.135Z] Received response with status 200
+[2024-08-12T19:10:59.088Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:11:14.417Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:11:14.432Z] ConfigManager created
+[2024-08-12T19:11:14.453Z] AuthManager created
+[2024-08-12T19:11:14.457Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:11:14.461Z] Endpoints loaded
+[2024-08-12T19:11:14.464Z] Retrieved AUTH config
+[2024-08-12T19:11:14.466Z] Retrieved AUTH config
+[2024-08-12T19:11:14.467Z] Token expired, refreshing...
+[2024-08-12T19:11:14.467Z] Retrieved AUTH config
+[2024-08-12T19:11:15.051Z] Token refreshed successfully
+[2024-08-12T19:11:15.057Z] Saved config to ./config/config.yaml
+[2024-08-12T19:11:15.058Z] Updated tokens in config
+[2024-08-12T19:11:15.059Z] Retrieved AUTH config
+[2024-08-12T19:11:15.060Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:11:15.259Z] Received response with status 200
+[2024-08-12T19:11:30.125Z] Server running at http://localhost:3000/
+[2024-08-12T19:11:30.194Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:11:30.195Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:11:30.204Z] ConfigManager created
+[2024-08-12T19:11:30.205Z] AuthManager created
+[2024-08-12T19:11:30.206Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:11:30.209Z] Endpoints loaded
+[2024-08-12T19:11:30.210Z] Retrieved AUTH config
+[2024-08-12T19:11:30.211Z] Retrieved AUTH config
+[2024-08-12T19:11:30.212Z] Token expired, refreshing...
+[2024-08-12T19:11:30.214Z] Retrieved AUTH config
+[2024-08-12T19:11:30.728Z] Token refreshed successfully
+[2024-08-12T19:11:30.734Z] Saved config to ./config/config.yaml
+[2024-08-12T19:11:30.734Z] Updated tokens and expiration time in config
+[2024-08-12T19:11:30.739Z] Retrieved AUTH config
+[2024-08-12T19:11:30.746Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:11:30.945Z] Received response with status 200
+[2024-08-12T19:11:46.243Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:11:46.246Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:11:46.255Z] ConfigManager created
+[2024-08-12T19:11:46.265Z] AuthManager created
+[2024-08-12T19:11:46.271Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:11:46.279Z] Endpoints loaded
+[2024-08-12T19:11:46.282Z] Retrieved AUTH config
+[2024-08-12T19:11:46.287Z] Retrieved AUTH config
+[2024-08-12T19:11:46.294Z] Retrieved AUTH config
+[2024-08-12T19:11:46.299Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:11:46.602Z] Received response with status 200
+[2024-08-12T19:12:00.039Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:12:00.042Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:12:00.050Z] ConfigManager created
+[2024-08-12T19:12:00.058Z] AuthManager created
+[2024-08-12T19:12:00.065Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:12:00.069Z] Endpoints loaded
+[2024-08-12T19:12:00.075Z] Retrieved AUTH config
+[2024-08-12T19:12:00.077Z] Retrieved AUTH config
+[2024-08-12T19:12:00.081Z] Retrieved AUTH config
+[2024-08-12T19:12:00.083Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:12:00.297Z] Received response with status 200
+[2024-08-12T19:12:27.772Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:12:27.776Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:12:27.782Z] ConfigManager created
+[2024-08-12T19:12:27.785Z] AuthManager created
+[2024-08-12T19:12:27.789Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:12:27.792Z] Endpoints loaded
+[2024-08-12T19:12:27.794Z] Retrieved AUTH config
+[2024-08-12T19:12:27.795Z] Retrieved AUTH config
+[2024-08-12T19:12:27.797Z] Retrieved AUTH config
+[2024-08-12T19:12:27.801Z] Making GET request to https://api.mercadolibre.com/users/209290511
+[2024-08-12T19:12:28.046Z] Received response with status 200
+[2024-08-12T19:13:34.811Z] Server running at http://localhost:3000/
+[2024-08-12T19:13:37.394Z] Creating MercadoLibreAPI instance
+[2024-08-12T19:13:37.396Z] Loaded config from ./config/config.yaml
+[2024-08-12T19:13:37.420Z] ConfigManager created
+[2024-08-12T19:13:37.423Z] AuthManager created
+[2024-08-12T19:13:37.425Z] Loaded endpoints from ./endpoints.yaml
+[2024-08-12T19:13:37.430Z] Endpoints loaded
+[2024-08-12T19:13:37.437Z] Retrieved AUTH config
+[2024-08-12T19:13:37.440Z] Retrieved AUTH config
+[2024-08-12T19:13:37.453Z] Retrieved AUTH config
+[2024-08-12T19:13:37.455Z] Making GET request to https://api.mercadolibre.com/users/209290511/addresses
+[2024-08-12T19:13:38.220Z] Received response with status 200
